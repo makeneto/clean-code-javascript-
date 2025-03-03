@@ -1,4 +1,4 @@
-# clean-code-javascript
+# Clean Code Javascript
 
 ## Índice
   1. [Introdução](#introdução)
